@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Clientes {
     public static void main(String args[]){
+        //Hola este comentario fue hecho en la clase de POO 03/10/2025
         Scanner datos = new Scanner(System.in);
         System.out.println("Ingrese su cedula: ");
         String cedula = datos.nextLine();
